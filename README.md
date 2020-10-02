@@ -116,7 +116,7 @@ Enabling multiple plugins simultaneously could lead to none of them working at a
 
 ### 3. Use script
 
-Before progressing: Make sure to read the [warnings](#warnings) section carefully!
+Before progressing that Make sure to read the [warnings](#warnings) section carefully!
 
 #### Start
 
@@ -141,7 +141,7 @@ Before progressing: Make sure to read the [warnings](#warnings) section carefull
 
 
 ### 4. Advanced use
-
+ - this very useful for creating office work...
 #### Trigger manually
 
 You can also manually trigger the script by calling this in your browser console:
